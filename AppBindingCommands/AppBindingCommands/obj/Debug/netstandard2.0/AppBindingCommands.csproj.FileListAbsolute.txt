@@ -1,0 +1,15 @@
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.deps.json
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\bin\Debug\netstandard2.0\AppBindingCommands.pdb
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.AssemblyReference.cache
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfoInputs.cache
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.AssemblyInfo.cs
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.csproj.CoreCompileInputs.cache
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.dll
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\refint\AppBindingCommands.dll
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\AppBindingCommands.pdb
+D:\Regis\Mobile\AppBindingCommands\AppBindingCommands\AppBindingCommands\obj\Debug\netstandard2.0\ref\AppBindingCommands.dll
